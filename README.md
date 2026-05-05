@@ -358,11 +358,11 @@ kubectl scale deployment shopping-cart --replicas=3
 
 ## 👤 Author
 
-**Belal Mahmoud** — DevOps Engineer
+**Sayed Atwh Sayed ** — DevOps Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Belal2015-181717?style=flat&logo=github)](https://github.com/Belal2015)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-belal--mahmoud--devops-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/belal-mahmoud-devops/)
-[![Email](https://img.shields.io/badge/Email-belalmahmoud8183@gmail.com-D14836?style=flat&logo=gmail)](mailto:belalmahmoud8183@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SayedAtwh-181717?style=flat&logo=github)](https://github.com/SayedAtwh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayed-atwh-sayed-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sayed-atwh-sayed/)
+[![Email](https://img.shields.io/badge/Email-sayed.atwh.sayed@gmail.com-D14836?style=flat&logo=gmail)](mailto:sayed.atwh.atwh@gmail.com)
 
 ---
 
